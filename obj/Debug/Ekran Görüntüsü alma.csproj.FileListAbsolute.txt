@@ -1,0 +1,10 @@
+D:\VB\Ekran Görüntüsü alma\bin\Debug\Ekran Görüntüsü alma.exe.config
+D:\VB\Ekran Görüntüsü alma\bin\Debug\Ekran Görüntüsü alma.exe
+D:\VB\Ekran Görüntüsü alma\bin\Debug\Ekran Görüntüsü alma.pdb
+D:\VB\Ekran Görüntüsü alma\obj\Debug\Ekran Görüntüsü alma.csprojAssemblyReference.cache
+D:\VB\Ekran Görüntüsü alma\obj\Debug\Ekran_Görüntüsü_alma.Form1.resources
+D:\VB\Ekran Görüntüsü alma\obj\Debug\Ekran_Görüntüsü_alma.Properties.Resources.resources
+D:\VB\Ekran Görüntüsü alma\obj\Debug\Ekran Görüntüsü alma.csproj.GenerateResource.cache
+D:\VB\Ekran Görüntüsü alma\obj\Debug\Ekran Görüntüsü alma.exe
+D:\VB\Ekran Görüntüsü alma\obj\Debug\Ekran Görüntüsü alma.pdb
+D:\VB\Ekran Görüntüsü alma\obj\Debug\Ekran Görüntüsü alma.csproj.CoreCompileInputs.cache
